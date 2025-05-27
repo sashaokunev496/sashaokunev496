@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studing in school
-- 🌱 I’m currently learning in algoritmika
+- 🌱 I’m currently learning algoritmika
 - 🤔 I’m looking for help with friends
 
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sasha Okunev</a> 
